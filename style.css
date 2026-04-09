@@ -159,9 +159,10 @@ ul { list-style: none; }
   justify-content: space-between;
 }
 .nav-logo {
+  font-family: 'Cinzel', serif;
   font-size: 1.35rem;
-  letter-spacing: 0.06em;
-  font-weight: 800;
+  letter-spacing: 0.12em;
+  font-weight: 700;
 }
 .logo-miz     { color: var(--gold); }
 .logo-textile { color: var(--white); }
@@ -834,9 +835,10 @@ ul { list-style: none; }
   margin-bottom: 32px;
 }
 .footer-logo {
+  font-family: 'Cinzel', serif;
   font-size: 1.25rem;
-  letter-spacing: 0.06em;
-  font-weight: 800;
+  letter-spacing: 0.12em;
+  font-weight: 700;
   margin-bottom: 16px;
 }
 .footer-brand p {
